@@ -1,11 +1,11 @@
-# A-color-recognition-system-for-the-blind-and-robots
+## A-color-recognition-system-for-the-blind-and-robots
 
-Mobile Color Recognition System (CNN + Embedded)
+#Mobile Color Recognition System (CNN + Embedded)
 
 This project involves the design and implementation of a low-cost, portable color recognition system dedicated to the visually impaired and robotic platforms (M2M). The system performs real-time classification to assist in daily activities and autonomous data exchange.
 
-Key Features
-Real-time Processing: Inference time of 230–320 ms with 90% classification accuracy.
+#Key Features
+-Real-time Processing: Inference time of 230–320 ms with 90% classification accuracy.
 
 Edge AI: Custom Convolutional Neural Network (CNN) trained on a proprietary dataset.
 
